@@ -3,4 +3,4 @@
 
 
 
-![This is the desert](assets/desert.png)
+![This is the desert](resources/desert.png)
