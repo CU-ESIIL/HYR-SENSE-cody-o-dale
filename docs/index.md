@@ -3,4 +3,4 @@
 
 
 
-![This is the desert](assets)
+![This is the desert](assets/desert)
